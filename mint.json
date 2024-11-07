@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Sample ParsChat",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://chat.parstechai.com/assets/combination-BcJNtr0o.svg",
+    "light": "https://chat.parstechai.com/assets/combination-BcJNtr0o.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "ttps://chat.parstechai.com/favicon.svg",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
